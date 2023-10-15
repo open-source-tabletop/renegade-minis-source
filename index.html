@@ -1,0 +1,15 @@
+---
+title: Renegade Minis
+layout: homepage
+---
+
+{% assign most_recent_post = site.posts | first %}
+<header>
+  <h1>Recent News</h1>
+</header>
+<article>
+  <span class="date">{{ most_recent_post.date | date_to_string }}</span>
+  <h2><a href="{{ most_recent_post.url }}">{{ most_recent_post.title }}</a></h2>
+  {{ most_recent_post.excerpt }}
+  <p><a href="{{ most_recent_post.url }}" class="button">Read more</a></p>
+</article>
