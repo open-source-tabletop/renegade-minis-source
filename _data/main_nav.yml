@@ -1,6 +1,6 @@
 - name: Home
   link: /
 - name: About Me
-  link: "#"
+  link: /about/
 - name: Where to buy
-  link: "#"
+  link: /buystuff/
