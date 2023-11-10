@@ -1,4 +1,6 @@
 - name: Home
   link: /
-- name: News
-  link: /news/
+- name: About Me
+  link: "#"
+- name: Where to buy
+  link: "#"

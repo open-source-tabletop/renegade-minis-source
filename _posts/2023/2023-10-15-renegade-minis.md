@@ -2,22 +2,28 @@
 title: Renegade Minis
 ---
 
-### Getting Started
-
-It has long been a tradition of mine to create the first blog post for a website while the site itself is half finished (or less). It helps when building the site but it also gives me a chance to state my goals and introduce myself. So here goes.
+Hello, welcome to my site/blog for a project I have decided to term "Renegade Minis" where I will be creating miniatures using 3d modelling and printing. I wanted to write something of an introduction here to say a little of what this is, what it might become, and about me. So here goes...
 
 <!--more-->
 
-### Who am I?
+### It's all about me
 
-I'm Callum. I am a long term nerd who has been making 3d models for just a little while now and simply wants to put them out there. Most for sale. I'd love to make a little money doing this and I'm not above admitting that but this endeavour has come from a lifelong wargaming and mini painting ~~passion~~ unhealthy obsession. Nearly 30 years of wargaming, mainly Warhammer Fantasy and 40k and everything around that, but never just Games Workshop games. I was always the one at my club looking for new games, wanting to see what else this hobby could be. And of course I always wanted to make my own but felt it was beyond me.
+I'll start this with who I am, because this is not just going to be a blog about the minis, this is about my connection to that and why I'm doing it. The first thing to know is I am a lifelong nerdy geeky guy who has been obsessed with collecting and painting miniatures, and with playing wargames. I grew up building airfix kits with my brother, creating epic dioramas on our shared ceiling depicting ahistoric dogfights between Spitfires and F16s. Later, in highschool, I found some friends who quite innocently introduced me to Warhammer in it's 40k and Fantasy Battles variants and that is largely responsible for everything that happened following.
 
-### What is Renegade Minis?
+Another thing I'll mention here is a little more personal. I am Autistic and I have some mental health issues I'm working on. If you are reading this and plan to ever come back, you should know that I will discuss these in my posts when relevant. And for me it is relevant, a large part of why I am doing this is for the benefit of my mental health. I need a creative outlet. I need to find healthier ways to exist with my goals and needs. I will be talking about it. If it's something you prefer not to read about then this blog is not for you.
 
-Like so many, during the pandemic, I dabbled in lots of new hobbies. I learned a small amount of 3d modelling for making low poly 3d games then continued with my normal life. In 2023 after getting into 3d printing it occurred to me that I was finally as close to my goal as I'd ever been and made a decision to put in the work learning Blender.
+### I'm the renegade of funk
 
-It was much harder than I expected, but at the same time I saw results. I made myself small accessories, eventually making odd models, until I realised maybe I could do something with this. It wouldn't change the wargaming world but maybe I could at least add my small contribution to the whole. So that's what this is. It's making and selling 3d printable minis. It's sharing game rules and ideas. It's finally doing what I should have been doing when I was starting out. 
+And finally we talk about miniatures. I guess it's obvious that someone who loves miniatures would want to create their own and the explanation is that simple at it's heart. In other ways it's a symptom of the time I've spent in this hobby. 3d printing revitalised a waning interest in wargaming when I realised I had the knowledge and experience to largely create whatever I wanted, if I put in the effort.
 
-It's going to be fun. It might never amount to much and that's absolutely ok with me. If I didn't want this for myself I don't think it would be a smart endeavour. I hope you find something in what I make that interests you. I hope you come and chat with me about making this hobby our own. Now, I just need to get this website finished.
+That thought came first. That I could create a game and a miniature range to go with it and **revolutionise the wargaming landscape!**. Then I took a breath and thought a little more about what I actually want. I don't want to do that. I want to play fun games and have fun making my own. I want to paint cool miniatures and occassionaly make my own. I want to post about it, and talk about it, and let it be the unburdened creative outlet that I actually need. If you ever catch me taking it too seriously and making **BIG PLANS!!** please remind me. I will appreciate it.
+
+So the term "Renegade Minis". what's that about. Well I kept thinking I needed a cool name for the project, but everything I came up with felt very unnatural since I knew I wasn't approaching this in the organised way someone starting a business might. I ended up thinking about that feeling of just doing it my way, doing my own thing, for profit or fun as being sort of counter capitalist. Ultimately I threw some words around that felt right until I found one that also had a dot com available. Let's not overthink it beyond that.
+
+### Maybe the real treasure...
+
+... is the friends we make along the way. If you decide to follow this blog or me on socials that I'm sure I'll link on the site somewhere once I figure out where that'll be, then I hope you'll feel free to comment on anything I write. I will be keeping all of that of on those platforms since I don't want to get involved in managing a website with all of that. This thing is running on Jekyll because I don't even want to get involved with stuff like wordpress - I just want to write.
+
+So that's where I'm starting this. I won't spend much time editing here, it is what it is. I can't wait to start showing off a little of what I'm making next.
 
 -Callum
