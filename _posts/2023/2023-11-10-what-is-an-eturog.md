@@ -10,7 +10,7 @@ Are you on Mastodon? I highly recommend it. Thanks to the growing community of m
 
 This model is something of a freeform design, just seeing what comes out as I sculpt and having fun. I ended up with this strange rock creature that I called an Eturog. I just kept piling it higher and higher with junk and enjoying the process. Don't worry though, this little guy is of Troll descent, and the weight of a few boxes and bags means absolutely nothing to it. It makes for a slow but inevitable beast of burden.
 
-It's up on my Cults, should anyone want one.
+It's up on Cults, should anyone want one.
 
 ### Lessons Learned
 
