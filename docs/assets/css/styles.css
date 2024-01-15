@@ -2094,6 +2094,10 @@ input[type=radio]:focus + label:before {
 }
 
 /* Image */
+img {
+  max-width: 100%;
+}
+
 .image {
   border: 0;
   display: inline-block;
@@ -2101,6 +2105,7 @@ input[type=radio]:focus + label:before {
 }
 .image img {
   display: block;
+  max-width: 100%;
 }
 .image.left, .image.right {
   max-width: 40%;
