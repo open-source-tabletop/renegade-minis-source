@@ -13,3 +13,5 @@ Although I generally prefer Blender I actually modelled the bases in Fusion 360,
 The results are good. Though very uniform. I might need to combine the effect with other elements to make it work better.
 
 -Callum
+
+**Edit: You can now [get these on Cults3D](https://cults3d.com/en/3d-model/game/rough-cobblestone-square-bases).**
