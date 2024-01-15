@@ -1,6 +1,6 @@
 ---
 title: Get your grubby mitts on my minis
-permalink: /buystuff/
+permalink: /where-to-buy/
 ---
 
 There's precious little available yet, but if you see something you like perhaps consider exchanging some of your shiny currency for my digital goodies. You can get them here:
