@@ -32,4 +32,4 @@ Well there's a lot to do here to improve this, mostly in designing a more intere
 
 As for the wood grain, I think I might have more success using masks, something I've only just started figuring out, and then a mesh filter to inflate in a specific direction. I need to try some other things for a bit now though.
 
-- Callum
+-Callum
