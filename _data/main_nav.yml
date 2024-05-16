@@ -1,6 +1,8 @@
 - name: Home
   link: /
-- name: About Me
-  link: /about/
+- name: Games
+  link: /games/
+#- name: About Me
+#  link: /about/
 - name: Where to buy
   link: /where-to-buy/
