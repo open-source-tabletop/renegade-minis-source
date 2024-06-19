@@ -20,4 +20,4 @@ There's plenty of work still to do and more playtesting but this gives a good id
 
 I'll have more to share about the game in the upcoming weeks.
 
--Callum
+-Callie

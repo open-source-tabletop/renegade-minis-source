@@ -12,4 +12,4 @@ I am really pleased with it, it was about 8 hours work total. I would have liked
 
 What do you think? A great Wizzard or just a conjurer of cheap tricks? Either way it's [available now on Cults3D](https://cults3d.com/en/3d-model/game/wizard-summoner)
 
--Callum
+-Callie

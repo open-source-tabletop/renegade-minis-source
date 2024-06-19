@@ -12,4 +12,4 @@ Overall, I'm really pleased with the sculpt, I think I captured the strength of 
 
 I'm not sure how often random sculpts like this will come along but I look forward to sharing more.
 
--Callum
+-Callie

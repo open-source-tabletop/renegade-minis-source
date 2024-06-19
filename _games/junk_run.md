@@ -40,3 +40,5 @@ Honestly, it's pretty fun. I say that not as a sales pitch but a little out of s
 ## What's next?
 
 Junk Run will get 1 more update after I have play tested it a few more times. Mostly this will be correcting any small issues but the game is what it is. I do hope to add another enemy to the game so that _might_ happen. Until then it's onto April's game... Rogue Element.
+
+**Update: Junk Run received an update that included a [vastly improved Iron Snake](/2024/05/02/get-snekked.html) and a few items of errata in the rules.**

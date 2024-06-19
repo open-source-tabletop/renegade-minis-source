@@ -2,7 +2,7 @@
   link: /
 - name: Games
   link: /games/
-#- name: About Me
-#  link: /about/
-- name: Where to buy
-  link: /where-to-buy/
+- name: About Me
+  link: /about
+- name: Cults3d Store
+  link: "https://cults3d.com/en/users/renegade-minis/3d-models"

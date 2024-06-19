@@ -18,4 +18,4 @@ I'm up to 5 completed minis, and I really feel like this is boosting my skill an
 
 I'm particularly pleased with my robit, who I have called "Ditto", I really had this vision of something between a Star Wars droid and some old Robby the Robot style retro robot and this is exactly what I pictured. I'm happy with them all to be honest, I didn't expect this to go so well.
 
--Callum
+-Callie

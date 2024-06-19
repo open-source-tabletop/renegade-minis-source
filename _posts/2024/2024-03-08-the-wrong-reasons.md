@@ -14,4 +14,4 @@ Here's the slump project, a terrain set of trenches/walls in a 40k style. It's a
 
 I will likely finish these in the coming months, I'll pop in and out of the file and get them done because I like to finish things, but once again I need to stop and figure out what I actually **want** to be making. I need to find something to really interest me, something to challenge me, only then does it all start to fall into place. But tonight I'm tired, so I'll sleep on it. Who knows what I'll get into next.
 
--Callum
+-Callie
