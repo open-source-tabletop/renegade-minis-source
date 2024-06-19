@@ -2,7 +2,7 @@
 title: Junk Run
 permalink: /games/junk-run/
 date: 2024-03-01 00:00:00
-header: images\game-covers\junkrun.jpg
+header: /images/game-covers/junkrun.jpg
 intro: 'The Galaxy is vast, and full of opportunity for a daring crew with the Right Stuff. For everyone else it can be hard just keeping your ship running, keeping your crew in one piece, and still have a few credits to spend at the next space port. Any crew desperate enough can usually make a quick credit by grabbing certain components from junkyard planets, though it’s risky!'
 ---
 

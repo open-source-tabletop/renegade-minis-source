@@ -14,7 +14,7 @@ subtitle: 3D Printable Games available to download now
         <h2><a href="{{ game.url }}">{{ game.title }}</a></h2>
     </header>
     {% if game.header %}
-    <a href="{{ game.url }}" class="image fit"><img src="\{{ game.header }}" alt=""></a>
+    <a href="{{ game.url }}" class="image fit"><img src="{{ game.header }}" alt=""></a>
     {% endif %}
     {{ game.intro | markdownify }}
     <ul class="actions special">

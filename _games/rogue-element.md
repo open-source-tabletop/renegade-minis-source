@@ -2,7 +2,7 @@
 title: Rogue Element
 permalink: /games/rogue-element/
 date: 2024-05-01 00:00:00
-header: images\game-covers\rogueelement.jpg
+header: /images/game-covers/rogueelement.jpg
 intro: "Rogue Element is a sci-fi miniatures game  designed for solo play. Players will
 take a team of 3 highly skilled operatives on a mission to infiltrate a corporate
 stronghold and secure vital information for their resistance cell. The game is
